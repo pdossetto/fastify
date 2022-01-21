@@ -260,6 +260,7 @@ Team members are listed in alphabetical order.
 * [__Matteo Collina__](https://github.com/mcollina), <https://twitter.com/matteocollina>, <https://www.npmjs.com/~matteo.collina>
 * [__Harry Brundage__](https://github.com/airhorns/), <https://twitter.com/harrybrundage>, <https://www.npmjs.com/~airhorns>
 * [__Tomas Della Vedova__](https://github.com/delvedor), <https://twitter.com/delvedor>, <https://www.npmjs.com/~delvedor>
+* [__Paolo Dossetto__](https://github.com/pdossetto)
 * [__Ayoub El Khattabi__](https://github.com/AyoubElk), <https://twitter.com/ayoubelkh>, <https://www.npmjs.com/~ayoubelk>
 * [__Vincent Le Goff__](https://github.com/zekth)
 * [__Salman Mitha__](https://github.com/salmanm), <https://www.npmjs.com/~salmanm>
